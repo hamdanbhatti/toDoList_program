@@ -1,7 +1,7 @@
 # ToDo List Application
 This is a command-line ToDo List application implemented in both TypeScript and JavaScript. The program is designed to help users manage their tasks efficiently.<br>
 
-# Key Features
+# 1- Key Features
 ## Command-line Interface:
 - The application runs directly in the terminal, providing a simple and quick way to manage tasks.<br>
 
