@@ -29,8 +29,8 @@ To use the application:<br><br>
 2. Clone the repository to your local machine.<br>
 3. Navigate to the project directory in your terminal.<br>
 4. Run the application using one of the following commands:<br>
-*      For TypeScript: ./main.ts (make sure to compile it first if necessary)<br>
--      For JavaScript: node main.js<br>
+*   For TypeScript: ./main.ts (`make sure to compile it first if necessary`)
+-   For JavaScript: node main.js
 # Development
 Developers can choose to work with either the TypeScript or JavaScript version of the application. The TypeScript version offers additional type safety and modern language features, while the JavaScript version provides straightforward execution without compilation.<br><br>
 
